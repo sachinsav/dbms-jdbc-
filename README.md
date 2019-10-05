@@ -17,4 +17,8 @@ c)include downloaded jar file in ide build path.<br>
 d)add all downloaded java file in your project.<br>
 e) On your local server and mysql, both thing you can on by using xampp if you are using window OS.<br>
 f)run your project in your ide and choose Login.java as your 1st running file .<br>
-g)thats it Enjoy!!<br>
+g)thats it Enjoy!!<br><br>
+
+<h2>  For Adminstrator LogIn:</h2><br>
+<p>  username: admin<br>
+  password: 123</p>
